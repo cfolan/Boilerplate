@@ -7,7 +7,8 @@ body {
   max-width: 700px;
 }
 
-h1 {
+h1,
+h2 {
   text-transform: uppercase;
   text-align: center;
 }
@@ -20,8 +21,8 @@ p {
 }
 
 ul {
-    line-height: 1.4;
-    text-align: left;
+        line-height: 1.9;
+  text-align: left;
 }
 
 .avatar {
@@ -36,5 +37,3 @@ ul {
   font-style: italic;
   font-weight: bold;
 }
-
-/** I want to put some spce between the image and the bullet point text but cant figure out how! **/
